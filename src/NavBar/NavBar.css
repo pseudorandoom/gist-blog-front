@@ -1,0 +1,14 @@
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sign-in, .sign-in:visited, .sign-in:active, .sign-in:hover {
+  border-bottom: #1d1fdd solid 5px;
+  color: #666;
+  font-family: "NeueHansKendrick-Extrabold";
+  font-size: 18px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
